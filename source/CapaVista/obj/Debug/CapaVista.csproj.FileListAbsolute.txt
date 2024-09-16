@@ -1,0 +1,74 @@
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmLogin.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmMain.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmRegistro.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmUsuario.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmUsuarios.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmGame.resources
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaVista\obj\Debug\CapaVista.FrmResult.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.FrmLogin.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.FrmMain.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.FrmRecupero.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.FrmRegistro.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.FrmUsuario.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.FrmListaUsuarios.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete

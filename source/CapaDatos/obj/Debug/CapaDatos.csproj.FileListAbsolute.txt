@@ -1,0 +1,24 @@
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaDatos\obj\Debug\CapaDatos.pdb

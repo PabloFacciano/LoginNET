@@ -1,0 +1,36 @@
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Ematp\Downloads\3- EjemploCapas\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\pablo.facciano\Downloads\EjemploCapas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\pablo.facciano\Desktop\personal\Visual Studio Projects\TPFacciano\CapaLogica\obj\Debug\CapaLogica.pdb
